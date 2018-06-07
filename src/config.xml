@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF8"?>
+<items timestamp="1523423460317">
+  <item type="1" key="launcher_host_url" value="10.88.253.227:9090" />
+  <item type="1" key="launcher_ipupgrade_url" value="10.88.253.227:9090" />
+  <item type="1" key="check_stb_host" value="10.88.253.227:8090" />
+  <item type="1" key="ipupgrade_host_url" value="192.168.1.227:8099" />
+  <item type="1" key="ntp_host_url" value="http://192.168.1.227:9090/" />
+  <item type="1" key="ott_live_ipupgrade_url" value="http://192.168.1.227:8099/" />
+  <item type="1" key="ott_live_portal_url" value="http://10.88.253.227:8099/" />
+  <item type="1" key="apk_info_upload_url" value="http://10.88.253.227:8090/" />
+</items>
